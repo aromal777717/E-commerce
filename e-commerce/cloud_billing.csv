@@ -1,0 +1,6 @@
+Date,Service Type,Cost
+2026-04-01,Compute,500
+2026-04-01,Storage,150
+2026-04-02,Database,300
+2026-04-02,Compute,400
+2026-04-03,Networking,100
